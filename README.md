@@ -37,13 +37,21 @@
 
 ## Default
 The default parametrs are :
+
 DEFAULT_DOMAIN="alphashell.com"
+
 DEFAULT_sslDOMAIN="gmail.com"
+
 DEFAULT_CUSTOMIZE="y"
+
 DEFAULT_USERNAME="4lph4shell747"
+
 DEFAULT_PASSWORD="4lph4shell@747"
+
 DEFAULT_PORT="53747"
+
 DEFAULT_WEB_BASE_PATH="/alphashell"
+
 
 # Enjoy  747
 
