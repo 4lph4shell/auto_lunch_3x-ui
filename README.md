@@ -17,6 +17,6 @@
   chmod + auto_xray.sh
   ```
  - Run the file with root acces
-  ```
-  sudo bash auto_xray.sh
-  ```
+   ```
+   sudo bash auto_xray.sh
+   ```
